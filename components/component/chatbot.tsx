@@ -22,7 +22,7 @@ export function Chatbot() {
           <div className="flex flex-col justify-center items-center h-full">
             <Image src="/ai1.jpg" alt="AI" width={120} height={120} />
             <p className="text-lg text-gray-700 mt-4">
-              Let's start a conversation!
+               Start a conversation!
             </p>
           </div>
         )}
